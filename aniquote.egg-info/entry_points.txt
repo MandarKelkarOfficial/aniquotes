@@ -1,0 +1,2 @@
+[console_scripts]
+aniquote = aniquote.main:main

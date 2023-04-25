@@ -1,0 +1,10 @@
+License.txt
+README.md
+setup.py
+aniquote/__init__.py
+aniquote/quotes.py
+aniquote.egg-info/PKG-INFO
+aniquote.egg-info/SOURCES.txt
+aniquote.egg-info/dependency_links.txt
+aniquote.egg-info/entry_points.txt
+aniquote.egg-info/top_level.txt
