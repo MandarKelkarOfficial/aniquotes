@@ -1,4 +1,4 @@
-# Aniquote
+## Aniquote
 
 It returns the famous dialogs of anime characters after entering their names.
 
